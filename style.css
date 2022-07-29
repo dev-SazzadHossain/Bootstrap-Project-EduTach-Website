@@ -1,0 +1,9 @@
+.slider-head {
+    background-image: url(images/cover/cover-3.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.slider-head.w-100 {
+    height: 90vh;
+}
